@@ -11,7 +11,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/DigiStrique-Solutions/sentinel.git",
-        "sha": "0cbe08f"
+        "sha": "0cbe08f59f62cd2972ec3fdc8671be5a2040e6c3"
       },
       "category": "development",
       "homepage": "https://github.com/DigiStrique-Solutions/sentinel"
