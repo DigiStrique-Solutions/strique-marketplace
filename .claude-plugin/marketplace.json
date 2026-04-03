@@ -1,0 +1,20 @@
+{
+  "name": "strique-marketplace",
+  "description": "Strique plugins for Claude Code",
+  "owner": {
+    "name": "Poojan Ajani"
+  },
+  "plugins": [
+    {
+      "name": "sentinel",
+      "description": "Self-improving development methodology for Claude Code. Institutional memory, quality enforcement, and continuous learning.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/DigiStrique-Solutions/sentinel.git",
+        "sha": "0cbe08f"
+      },
+      "category": "development",
+      "homepage": "https://github.com/DigiStrique-Solutions/sentinel"
+    }
+  ]
+}
