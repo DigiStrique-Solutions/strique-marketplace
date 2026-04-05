@@ -10,8 +10,7 @@
       "description": "Self-improving development methodology for Claude Code. Institutional memory, quality enforcement, and continuous learning.",
       "source": {
         "source": "url",
-        "url": "https://github.com/DigiStrique-Solutions/sentinel.git",
-        "sha": "8ba83b4de55aa6634f41b3eab7da39df0012282e"
+        "url": "https://github.com/DigiStrique-Solutions/sentinel.git"
       },
       "category": "development",
       "homepage": "https://github.com/DigiStrique-Solutions/sentinel"
